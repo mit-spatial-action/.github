@@ -1,4 +1,4 @@
-# Unnamed Lab @ MIT DUSP
+# MIT Spatial Action Research Group
 
 ## Current Affiliates
 
