@@ -2,6 +2,7 @@
 
 ## Current Affiliates
 
-+ [Eric Robsky Huntley](https://github.com/ericrobskyhuntley), PhD (Director)
-+ [Asya Aizman](https://github.com/anastasia) (Graduate Researcher, MIT, MCP 2024)
-+ [Milan Chuttani](https://github.com/mchuttani18) (Graduate Researcher, MIT, MCP 2025)
++ [Eric Robsky Huntley](https://github.com/ericrobskyhuntley), PhD, GISP (Director)
++ [Asya Aizman](https://github.com/anastasia), MCP (Graduate Researcher, PhD Student)
++ [Milan Chuttani](https://github.com/mchuttani18) (Graduate Researcher, MCP Candidate '25)
++ [Jiao Zhao](https://github.com/Jiaoz17) (Graduate Researcher, MCP Candidate '26)
