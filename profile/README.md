@@ -10,3 +10,5 @@
 
 + [Asya Aizman, MCP '24](https://github.com/anastasia)
 + [Milan Chuttani, MCP '25](https://github.com/mchuttani18)
++ [Ever Rael, SB '25](https://github.com/qbious)
++ [Gabriel Rodríguez, SB '25](https://github.com/gabrc52)
