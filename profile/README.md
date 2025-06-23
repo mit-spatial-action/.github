@@ -3,6 +3,10 @@
 ## Current Affiliates
 
 + [Eric Robsky Huntley, PhD, GISP](https://github.com/ericrobskyhuntley) (Director)
-+ [Asya Aizman, MCP](https://github.com/anastasia) (Graduate Researcher, PhD Student)
-+ [Milan Chuttani](https://github.com/mchuttani18) (Graduate Researcher, MCP Candidate '25)
-+ [Jiao Zhao](https://github.com/Jiaoz17) (Graduate Researcher, MCP Candidate '26)
++ [Jiao Zhao](https://github.com/Jiaoz17) (Research Assistant, MCP Candidate '26)
++ [Amira Ravshanova](https://github.com/amirarav) (UROP, SB '26)
+
+## Alumni
+
++ [Asya Aizman, MCP '24](https://github.com/anastasia)
++ [Milan Chuttani, MCP '25](https://github.com/mchuttani18)
